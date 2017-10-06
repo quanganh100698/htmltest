@@ -1,0 +1,43 @@
+body{
+	font-family:tahoma; 
+	font-size:11px;
+}
+h1{	
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Tahoma,Geneva,sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+}
+ul{
+	font-family: consolas;
+	font-size: 11px;
+}
+li{
+	font-family: consolas;
+	font-size: 11px;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+	text-decoration: underline;
+}
+.blue{
+	color: blue;
+}
+.name{
+	font-weight: bold;
+}
+#wrap {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+#content {
+    float: left;
+    position: relative;
+    left: -50%;
+}
